@@ -1,7 +1,7 @@
 UIkit-Sublime
 =============
 
-UIkit Class name completition
+UIkit Class name completion
 
 <a href="http://getuikit.com" target="_blank" title="UIkit framework">UIkit Framework</a>
 
