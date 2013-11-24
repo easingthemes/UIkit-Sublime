@@ -1,9 +1,11 @@
 UIkit-Sublime
 =============
 
-UIkit CSS Class name completion
+UIkit CSS Class name completion, for Sublime text editor.
 
 <a href="http://getuikit.com" target="_blank" title="UIkit framework">UIkit Framework</a>
+
+<a href="http://www.sublimetext.com" target="_blank" title="Sublime Text editor">Sublime Text editor</a>
 
 Soon, better documentation and Package Control support
 __________________________________________________________
