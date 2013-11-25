@@ -12,9 +12,12 @@ __________________________________________________________
 
 <h2>INSTALL</h2>
 
-1.Download zip file
+1.Trough Package Control
+ - Pref --> Package Control - Install Package: search UIkit.
 
-2.Open Sublime Text
+OR
+
+2.Download zip file, open Sublime Text
 
  - In main menu go to Preferences --> Browse Packages
  - Extract ziped file in Packages folder that you just opened
