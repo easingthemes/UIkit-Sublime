@@ -7,7 +7,6 @@ UIkit CSS Class name completion, for Sublime text editor.
 
 <a href="http://www.sublimetext.com" target="_blank" title="Sublime Text editor">Sublime Text editor</a>
 
-Soon, better documentation and Package Control support
 __________________________________________________________
 
 <h2>INSTALL</h2>
