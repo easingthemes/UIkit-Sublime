@@ -38,7 +38,7 @@ If you already didn't activate Sublime autocomplete, you need to do it now.
 
 <h2>USE</h2>
 
- - Inside class apostrophes start typing <code>uk</code>.
+ - Inside class quotes start typing <code>uk</code>.
  - Class names are sorted alphabetically (Sublime style)
    - First block are two parts words, eg. uk-active
    - Than 3-parts words, eg. uk-icon-github
