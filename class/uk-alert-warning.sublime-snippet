@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-alert-warning]]></content>
+
+	<tabTrigger>uk-alert-warning</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

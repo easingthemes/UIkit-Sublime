@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-push-1-2]]></content>
+
+	<tabTrigger>uk-push-1-2</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-exclamation]]></content>
+
+	<tabTrigger>uk-icon-exclamation</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-clearfix]]></content>
+
+	<tabTrigger>uk-clearfix</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

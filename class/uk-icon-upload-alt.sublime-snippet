@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-upload-alt]]></content>
+
+	<tabTrigger>uk-icon-upload-alt</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

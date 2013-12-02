@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-form-help-block]]></content>
+
+	<tabTrigger>uk-form-help-block</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

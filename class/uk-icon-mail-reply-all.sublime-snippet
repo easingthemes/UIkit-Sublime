@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-mail-reply-all]]></content>
+
+	<tabTrigger>uk-icon-mail-reply-all</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-visible-hover-inline]]></content>
+
+	<tabTrigger>uk-visible-hover-inline</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

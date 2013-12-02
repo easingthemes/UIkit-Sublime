@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-description-list-horizontal]]></content>
+
+	<tabTrigger>uk-description-list-horizontal</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

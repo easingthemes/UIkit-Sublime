@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-zoom-in]]></content>
+
+	<tabTrigger>uk-icon-zoom-in</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

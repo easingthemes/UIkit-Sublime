@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-touch]]></content>
+
+	<tabTrigger>uk-touch</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

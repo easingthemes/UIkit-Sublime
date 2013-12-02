@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-folder-open]]></content>
+
+	<tabTrigger>uk-icon-folder-open</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

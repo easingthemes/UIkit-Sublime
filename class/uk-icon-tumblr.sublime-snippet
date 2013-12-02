@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-tumblr]]></content>
+
+	<tabTrigger>uk-icon-tumblr</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

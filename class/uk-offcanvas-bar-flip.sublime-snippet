@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-offcanvas-bar-flip]]></content>
+
+	<tabTrigger>uk-offcanvas-bar-flip</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

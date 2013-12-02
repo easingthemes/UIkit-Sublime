@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-list-striped]]></content>
+
+	<tabTrigger>uk-list-striped</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-maxcdn]]></content>
+
+	<tabTrigger>uk-icon-maxcdn</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

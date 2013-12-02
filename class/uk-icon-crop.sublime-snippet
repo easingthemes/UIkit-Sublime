@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-crop]]></content>
+
+	<tabTrigger>uk-icon-crop</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

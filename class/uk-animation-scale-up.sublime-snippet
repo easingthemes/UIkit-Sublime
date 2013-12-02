@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-animation-scale-up]]></content>
+
+	<tabTrigger>uk-animation-scale-up</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

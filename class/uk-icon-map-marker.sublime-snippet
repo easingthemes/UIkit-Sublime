@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-map-marker]]></content>
+
+	<tabTrigger>uk-icon-map-marker</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

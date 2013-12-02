@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-button-large]]></content>
+
+	<tabTrigger>uk-button-large</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

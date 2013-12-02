@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-pagination-right]]></content>
+
+	<tabTrigger>uk-pagination-right</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

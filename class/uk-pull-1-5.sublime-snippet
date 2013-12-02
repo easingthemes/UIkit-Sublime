@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-pull-1-5]]></content>
+
+	<tabTrigger>uk-pull-1-5</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

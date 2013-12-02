@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-description-list-line]]></content>
+
+	<tabTrigger>uk-description-list-line</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

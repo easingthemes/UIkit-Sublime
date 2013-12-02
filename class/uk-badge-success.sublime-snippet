@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-badge-success]]></content>
+
+	<tabTrigger>uk-badge-success</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

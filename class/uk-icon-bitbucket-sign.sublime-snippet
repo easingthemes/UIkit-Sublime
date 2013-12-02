@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-bitbucket-sign]]></content>
+
+	<tabTrigger>uk-icon-bitbucket-sign</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

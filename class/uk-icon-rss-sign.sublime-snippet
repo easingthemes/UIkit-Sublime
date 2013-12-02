@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-rss-sign]]></content>
+
+	<tabTrigger>uk-icon-rss-sign</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

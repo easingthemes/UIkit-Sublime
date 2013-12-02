@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-fighter-jet]]></content>
+
+	<tabTrigger>uk-icon-fighter-jet</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-comment-meta]]></content>
+
+	<tabTrigger>uk-comment-meta</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

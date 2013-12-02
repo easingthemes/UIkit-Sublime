@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-shopping-cart]]></content>
+
+	<tabTrigger>uk-icon-shopping-cart</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

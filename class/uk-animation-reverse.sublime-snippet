@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-animation-reverse]]></content>
+
+	<tabTrigger>uk-animation-reverse</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

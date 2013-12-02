@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-cogs]]></content>
+
+	<tabTrigger>uk-icon-cogs</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

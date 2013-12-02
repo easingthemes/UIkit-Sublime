@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-display-inline-block]]></content>
+
+	<tabTrigger>uk-display-inline-block</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

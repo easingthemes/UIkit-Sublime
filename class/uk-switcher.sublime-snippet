@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-switcher]]></content>
+
+	<tabTrigger>uk-switcher</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

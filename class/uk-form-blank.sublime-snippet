@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-form-blank]]></content>
+
+	<tabTrigger>uk-form-blank</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

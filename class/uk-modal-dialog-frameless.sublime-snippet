@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-modal-dialog-frameless]]></content>
+
+	<tabTrigger>uk-modal-dialog-frameless</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

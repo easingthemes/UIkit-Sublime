@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-refresh]]></content>
+
+	<tabTrigger>uk-icon-refresh</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

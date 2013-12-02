@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-tab-left]]></content>
+
+	<tabTrigger>uk-tab-left</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>
