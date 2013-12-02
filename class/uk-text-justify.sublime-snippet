@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-text-justify]]></content>
+
+	<tabTrigger>uk-text-justify</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

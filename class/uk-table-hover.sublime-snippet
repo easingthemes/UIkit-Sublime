@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-table-hover]]></content>
+
+	<tabTrigger>uk-table-hover</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

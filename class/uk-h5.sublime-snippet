@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-h5]]></content>
+
+	<tabTrigger>uk-h5</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

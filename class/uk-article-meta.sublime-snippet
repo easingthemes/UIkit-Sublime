@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-article-meta]]></content>
+
+	<tabTrigger>uk-article-meta</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-sort-by-alphabet]]></content>
+
+	<tabTrigger>uk-icon-sort-by-alphabet</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

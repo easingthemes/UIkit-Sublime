@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-animation-slide-top]]></content>
+
+	<tabTrigger>uk-animation-slide-top</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

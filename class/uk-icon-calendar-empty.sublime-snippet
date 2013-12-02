@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-calendar-empty]]></content>
+
+	<tabTrigger>uk-icon-calendar-empty</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

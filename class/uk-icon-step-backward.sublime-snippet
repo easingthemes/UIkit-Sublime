@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-step-backward]]></content>
+
+	<tabTrigger>uk-icon-step-backward</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

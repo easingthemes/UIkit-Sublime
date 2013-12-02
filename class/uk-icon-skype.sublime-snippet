@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-skype]]></content>
+
+	<tabTrigger>uk-icon-skype</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-text-break]]></content>
+
+	<tabTrigger>uk-text-break</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

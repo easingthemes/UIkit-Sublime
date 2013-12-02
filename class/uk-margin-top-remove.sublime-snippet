@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-margin-top-remove]]></content>
+
+	<tabTrigger>uk-margin-top-remove</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

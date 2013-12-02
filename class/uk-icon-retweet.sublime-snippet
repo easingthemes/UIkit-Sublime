@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-retweet]]></content>
+
+	<tabTrigger>uk-icon-retweet</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-thumbnail-medium]]></content>
+
+	<tabTrigger>uk-thumbnail-medium</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-panel-header]]></content>
+
+	<tabTrigger>uk-panel-header</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

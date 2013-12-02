@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-google-plus]]></content>
+
+	<tabTrigger>uk-icon-google-plus</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

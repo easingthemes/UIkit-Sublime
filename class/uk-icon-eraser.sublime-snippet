@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-eraser]]></content>
+
+	<tabTrigger>uk-icon-eraser</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

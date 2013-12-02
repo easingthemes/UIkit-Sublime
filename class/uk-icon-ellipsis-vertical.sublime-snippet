@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-ellipsis-vertical]]></content>
+
+	<tabTrigger>uk-icon-ellipsis-vertical</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

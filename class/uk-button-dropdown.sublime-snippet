@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-button-dropdown]]></content>
+
+	<tabTrigger>uk-button-dropdown</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

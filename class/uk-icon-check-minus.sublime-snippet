@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-check-minus]]></content>
+
+	<tabTrigger>uk-icon-check-minus</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

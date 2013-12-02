@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-camera-retro]]></content>
+
+	<tabTrigger>uk-icon-camera-retro</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

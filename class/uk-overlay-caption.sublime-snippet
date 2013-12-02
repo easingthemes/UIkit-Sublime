@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-overlay-caption]]></content>
+
+	<tabTrigger>uk-overlay-caption</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

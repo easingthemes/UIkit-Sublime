@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-forward]]></content>
+
+	<tabTrigger>uk-icon-forward</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

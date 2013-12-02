@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-nav-parent-icon]]></content>
+
+	<tabTrigger>uk-nav-parent-icon</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

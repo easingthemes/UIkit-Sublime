@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-envelope]]></content>
+
+	<tabTrigger>uk-icon-envelope</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

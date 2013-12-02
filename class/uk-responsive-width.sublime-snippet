@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-responsive-width]]></content>
+
+	<tabTrigger>uk-responsive-width</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

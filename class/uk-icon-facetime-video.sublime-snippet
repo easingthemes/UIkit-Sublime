@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-facetime-video]]></content>
+
+	<tabTrigger>uk-icon-facetime-video</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

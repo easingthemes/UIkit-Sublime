@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-resize-vertical]]></content>
+
+	<tabTrigger>uk-icon-resize-vertical</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

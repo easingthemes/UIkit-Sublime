@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-weibo]]></content>
+
+	<tabTrigger>uk-icon-weibo</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

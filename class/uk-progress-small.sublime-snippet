@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-progress-small]]></content>
+
+	<tabTrigger>uk-progress-small</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

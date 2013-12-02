@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-text-truncate]]></content>
+
+	<tabTrigger>uk-text-truncate</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

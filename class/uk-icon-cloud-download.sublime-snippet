@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-cloud-download]]></content>
+
+	<tabTrigger>uk-icon-cloud-download</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

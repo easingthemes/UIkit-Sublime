@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-article-divider]]></content>
+
+	<tabTrigger>uk-article-divider</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-icon-keyboard]]></content>
+
+	<tabTrigger>uk-icon-keyboard</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

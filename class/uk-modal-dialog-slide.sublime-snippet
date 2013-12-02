@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-modal-dialog-slide]]></content>
+
+	<tabTrigger>uk-modal-dialog-slide</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>

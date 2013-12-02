@@ -1,0 +1,11 @@
+<snippet>
+
+	<content><![CDATA[uk-navbar-toggle-alt]]></content>
+
+	<tabTrigger>uk-navbar-toggle-alt</tabTrigger>
+
+	<scope>text.html string.quoted</scope>
+
+	<description>UIkit class</description>
+
+</snippet>
