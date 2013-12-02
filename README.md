@@ -9,6 +9,12 @@ UIkit CSS Class name completion, for Sublime text editor.
 
 __________________________________________________________
 
+<h2>Update</h2>
+
+Changed to sublime-snippet from sublime-completion. Due to issue with Sublime 3.
+Use it as usually.
+You can still download <a href="http://easingthemes.com/uikit/UIkit-Class.zip" target="_blank" title="Sublime Text editor">previous release</a>, if you want.
+
 <h2>INSTALL</h2>
 
 1.Trough Package Control
