@@ -1,6 +1,20 @@
 UIkit-Sublime
 =============
 
+UIkit team made their official plugin
+
+<a href="http://github.com/uikit/uikit-sublime" target="_blank" title="UIkit sublime">UIkit Sublime</a>
+
+with classnames and data attributes.
+
+This plugin will not be maintained anymore.
+
+Enjoy coding.
+
+__________________________________________________________
+
+<h2>History</h2>
+
 UIkit CSS Class name completion, for Sublime text editor.
 
 <a href="http://getuikit.com" target="_blank" title="UIkit framework">UIkit Framework</a>
