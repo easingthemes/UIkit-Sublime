@@ -9,7 +9,7 @@ with classnames and data attributes.
 
 This plugin will not be maintained anymore.
 
-Enjoy coding.
+Enjoy coding...
 
 __________________________________________________________
 
